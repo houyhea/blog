@@ -22,6 +22,7 @@ http://api.xxx.com/v1/ajaxcombo??user/getUserInfo?userId=1,setting/getSystemConf
 2. combo:当前data是否是combo化数据。如果是，则data是combo请求对应的返回数据数组，其索引顺序根据url中的顺序一致。如果不是，则data就是实际的业务数据
 3. data:相关数据。
 4.errMsg：对应的错误信息描述。
+
 ##其他
 1. ajax combo handler 有点类似与promise的when方法（一次执行多个请求，当所有请求都有返回时，触发promise的resolve）。两者的本质区别在于：promise本质还是建立多个连接；而ajax combo handler却是只有一个请求连接。
 2. ajax combo handler除了可以合并数据获取请求外，还可以合并提交请求（post、put、delete）。后续还可以考虑利用请求url的顺序，让后台顺序执行各url对应的后台程序，实现一些意想不到的特殊功能（比如：事务、数据操作的链式写法等）。
