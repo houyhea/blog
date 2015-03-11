@@ -16,7 +16,30 @@ http://api.xxx.com/v1/ajaxcombo??user/getUserInfo?userId=1,setting/getSystemConf
 暂用??实现url的分隔，后面是具体的url请求列表，用逗号分隔。为了避免url里也有逗号，需要对url进行编码。
 ###返回数据格式
 ```
-{code:0,combo:1,data:[{code:0,data:{name:"houyhea",sex:0,old:32},errMsg:""},{code:0,data:{param:1,page:2},errMsg:""}],errMsg:""}
+{
+  "code": 0,
+  "combo": 1,
+  "data": [
+    {
+      "code": 0,
+      "data": {
+        "name": "houyhea",
+        "sex": 0,
+        "old": 32
+      },
+      "errMsg": ""
+    },
+    {
+      "code": 0,
+      "data": {
+        "param": 1,
+        "page": 2
+      },
+      "errMsg": ""
+    }
+  ],
+  "errMsg": ""
+}
 ```
 1. code:返回的错误码；
 2. combo:当前data是否是combo化数据。如果是，则data是combo请求对应的返回数据数组，其索引顺序根据url中的顺序一致。如果不是，则data就是实际的业务数据
