@@ -67,6 +67,7 @@
 ### 已经完成的
 1. 通过组件的形式包装界面代码；
 2. 通过事件完成解耦；
+
 ## NETJ框架
 网易的NETJ框架提到的模块化开发方案
 [参考：http://nej.netease.com/course/topic/dispatcher/](http://nej.netease.com/course/topic/dispatcher/)
