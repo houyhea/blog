@@ -1,6 +1,7 @@
 #我的blog
 我的一些想法记录。
 
+- [一种前端控件库设计框架](https://github.com/houyhea/blog/blob/master/20150426.md)
 - [一种前后端分层开发的数据调试方法](https://github.com/houyhea/blog/blob/master/20150425.md)
 - [利用Json-Schema反向验证后台服务返回的数据格式](https://github.com/houyhea/blog/blob/master/20150418.md)
 - [基于组件的业务系统框架思路](https://github.com/houyhea/blog/blob/master/web_frontend_framework_conception.md)
