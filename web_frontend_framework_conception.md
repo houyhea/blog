@@ -71,6 +71,7 @@
 ## NETJ框架
 网易的NETJ框架提到的模块化开发方案
 [参考：http://nej.netease.com/course/topic/dispatcher/](http://nej.netease.com/course/topic/dispatcher/)
+
 1. 垂直采用MVC架构，横向采用模块化思路。
 2. 模块间通过消息通信。
 3. 模块分为可访问模块（即我这里的页面）、私有模块（即一个页面内的子模块）；
