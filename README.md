@@ -1,6 +1,6 @@
 #我的blog
 我的一些想法记录。
-我的掘金个人主页：
+我的掘金个人主页,欢迎拍砖。
 [https://gold.xitu.io/user/57c635bcd342d3006b3bf714](https://gold.xitu.io/user/57c635bcd342d3006b3bf714)
 
 - [一张图搞定闭包概念](https://github.com/houyhea/blog/blob/master/20150524.md)
