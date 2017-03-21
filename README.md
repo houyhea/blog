@@ -3,6 +3,9 @@
 我的掘金个人主页,欢迎拍砖。
 [https://gold.xitu.io/user/57c635bcd342d3006b3bf714](https://gold.xitu.io/user/57c635bcd342d3006b3bf714)
 
+
+- [谈谈web前端人员在项目中的正确沟通方式](https://github.com/houyhea/blog/blob/master/20170321.md)
+
 - [一张图搞定闭包概念](https://github.com/houyhea/blog/blob/master/20150524.md)
 - [一种前端控件库设计框架](https://github.com/houyhea/blog/blob/master/20150426.md)
 - [一种前后端分层开发的数据调试方法](https://github.com/houyhea/blog/blob/master/20150425.md)
