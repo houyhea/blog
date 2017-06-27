@@ -4,6 +4,7 @@
 [https://gold.xitu.io/user/57c635bcd342d3006b3bf714](https://gold.xitu.io/user/57c635bcd342d3006b3bf714)
 
 
+- [利用localstorage实现本地消息缓存](https://github.com/houyhea/blog/blob/master/20170627.md)
 - [利用service work破解防盗链](https://github.com/houyhea/blog/blob/master/20170330.md)
 - [软件开发体系设想](https://github.com/houyhea/blog/blob/master/20170328.md)
 - [谈谈web前端人员在项目中的正确沟通方式](https://github.com/houyhea/blog/blob/master/20170321.md)
